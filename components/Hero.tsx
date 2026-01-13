@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Rohit, a FrontEnd Developer based in India.
           </p>
 
-          <a href="#about">
+          <a href="https://github.com/rohit-shinde-26">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
